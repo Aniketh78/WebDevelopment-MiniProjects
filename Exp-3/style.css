@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+.styled-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #006064;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.styled-button:hover {
+    background-color: #004d40;
+}
